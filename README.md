@@ -1,14 +1,13 @@
-# Python-Mandelbrot
- Python program to plot mandelbrot set
+# Python-Fractal
+ Program to plot various kind of fractal, such as mandelbrot and julia set, check the notebook.
  
-## Usage
-1. Install required modules with `pip install -r requirements.txt`.
-2. Run the program with `python mandelbrot_generator.py`
-3. Wait for the program to compute
-4. Check the notebook file
+<img src="https://github.com/Schildsladder/mandelbrot/blob/master/pictures/buzzsaw2.jpg" width="60%">
 
-## Mandelbrot Set feature rendered by this program
-<img src="https://github.com/Schildsladder/mandelbrot/blob/master/pictures/buzzsaw2.jpg" width="100%">
-
+## Mandelbrot Set Video
 Click the picture to watch video
 [![Mandelbrot Video](https://github.com/Schildsladder/mandelbrot/blob/master/pictures/a11.jpg)](https://www.youtube.com/watch?v=eUALuIO6PzE "Mandelbrot Video")
+
+## Julia Set Video
+Click the picture to watch video
+[![Julia Set Video](https://github.com/Schildsladder/Fractal/blob/master/pictures/juliaa.jpg)](https://www.youtube.com/watch?v=F0wlcUKaCk8 "Julia Set Video")
+
